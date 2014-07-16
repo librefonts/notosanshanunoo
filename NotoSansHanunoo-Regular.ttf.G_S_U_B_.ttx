@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GSUB>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=2 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="DFLT"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="0"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="1">
+        <ScriptTag value="hano"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="1"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=2 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="1">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=1 -->
+      <Lookup index="0">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="uni1725">
+            <Ligature components="uni1732" glyph="glyph00027"/>
+            <Ligature components="uni1733" glyph="glyph00028"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni1726">
+            <Ligature components="uni1733" glyph="glyph00029"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni1727">
+            <Ligature components="uni1732" glyph="glyph00030"/>
+            <Ligature components="uni1733" glyph="glyph00031"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni1729">
+            <Ligature components="uni1732" glyph="glyph00032"/>
+            <Ligature components="uni1733" glyph="glyph00033"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni172B">
+            <Ligature components="uni1733" glyph="glyph00034"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni172D">
+            <Ligature components="uni1732" glyph="glyph00035"/>
+            <Ligature components="uni1733" glyph="glyph00036"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni172E">
+            <Ligature components="uni1733" glyph="glyph00037"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni1730">
+            <Ligature components="uni1733" glyph="glyph00038"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni1731">
+            <Ligature components="uni1732" glyph="glyph00039"/>
+            <Ligature components="uni1733" glyph="glyph00040"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+    </LookupList>
+  </GSUB>
+
+</ttFont>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x0" name="uniFEFF"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0x1720" name="uni1720"/><!-- HANUNOO LETTER A -->
+      <map code="0x1721" name="uni1721"/><!-- HANUNOO LETTER I -->
+      <map code="0x1722" name="uni1722"/><!-- HANUNOO LETTER U -->
+      <map code="0x1723" name="uni1723"/><!-- HANUNOO LETTER KA -->
+      <map code="0x1724" name="uni1724"/><!-- HANUNOO LETTER GA -->
+      <map code="0x1725" name="uni1725"/><!-- HANUNOO LETTER NGA -->
+      <map code="0x1726" name="uni1726"/><!-- HANUNOO LETTER TA -->
+      <map code="0x1727" name="uni1727"/><!-- HANUNOO LETTER DA -->
+      <map code="0x1728" name="uni1728"/><!-- HANUNOO LETTER NA -->
+      <map code="0x1729" name="uni1729"/><!-- HANUNOO LETTER PA -->
+      <map code="0x172a" name="uni172A"/><!-- HANUNOO LETTER BA -->
+      <map code="0x172b" name="uni172B"/><!-- HANUNOO LETTER MA -->
+      <map code="0x172c" name="uni172C"/><!-- HANUNOO LETTER YA -->
+      <map code="0x172d" name="uni172D"/><!-- HANUNOO LETTER RA -->
+      <map code="0x172e" name="uni172E"/><!-- HANUNOO LETTER LA -->
+      <map code="0x172f" name="uni172F"/><!-- HANUNOO LETTER WA -->
+      <map code="0x1730" name="uni1730"/><!-- HANUNOO LETTER SA -->
+      <map code="0x1731" name="uni1731"/><!-- HANUNOO LETTER HA -->
+      <map code="0x1732" name="uni1732"/><!-- HANUNOO VOWEL SIGN I -->
+      <map code="0x1733" name="uni1733"/><!-- HANUNOO VOWEL SIGN U -->
+      <map code="0x1734" name="uni1734"/><!-- HANUNOO SIGN PAMUDPOD -->
+      <map code="0x1735" name="uni1735"/><!-- PHILIPPINE SINGLE PUNCTUATION -->
+      <map code="0x1736" name="uni1736"/><!-- PHILIPPINE DOUBLE PUNCTUATION -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+    </cmap_format_4>
+  </cmap>
+
+</ttFont>

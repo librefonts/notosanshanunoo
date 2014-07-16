@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GDEF>
+    <Version value="1.0"/>
+    <GlyphClassDef Format="2">
+      <ClassDef glyph=".notdef" class="1"/>
+      <ClassDef glyph="glyph00027" class="1"/>
+      <ClassDef glyph="glyph00028" class="1"/>
+      <ClassDef glyph="glyph00029" class="1"/>
+      <ClassDef glyph="glyph00030" class="1"/>
+      <ClassDef glyph="glyph00031" class="1"/>
+      <ClassDef glyph="glyph00032" class="1"/>
+      <ClassDef glyph="glyph00033" class="1"/>
+      <ClassDef glyph="glyph00034" class="1"/>
+      <ClassDef glyph="glyph00035" class="1"/>
+      <ClassDef glyph="glyph00036" class="1"/>
+      <ClassDef glyph="glyph00037" class="1"/>
+      <ClassDef glyph="glyph00038" class="1"/>
+      <ClassDef glyph="glyph00039" class="1"/>
+      <ClassDef glyph="glyph00040" class="1"/>
+      <ClassDef glyph="glyph00041" class="1"/>
+      <ClassDef glyph="glyph00042" class="1"/>
+      <ClassDef glyph="uni000D" class="1"/>
+      <ClassDef glyph="uni00A0" class="1"/>
+      <ClassDef glyph="uni1720" class="1"/>
+      <ClassDef glyph="uni1721" class="1"/>
+      <ClassDef glyph="uni1722" class="1"/>
+      <ClassDef glyph="uni1723" class="1"/>
+      <ClassDef glyph="uni1724" class="1"/>
+      <ClassDef glyph="uni1725" class="1"/>
+      <ClassDef glyph="uni1726" class="1"/>
+      <ClassDef glyph="uni1727" class="1"/>
+      <ClassDef glyph="uni1728" class="1"/>
+      <ClassDef glyph="uni1729" class="1"/>
+      <ClassDef glyph="uni172A" class="1"/>
+      <ClassDef glyph="uni172B" class="1"/>
+      <ClassDef glyph="uni172C" class="1"/>
+      <ClassDef glyph="uni172D" class="1"/>
+      <ClassDef glyph="uni172E" class="1"/>
+      <ClassDef glyph="uni172F" class="1"/>
+      <ClassDef glyph="uni1730" class="1"/>
+      <ClassDef glyph="uni1731" class="1"/>
+      <ClassDef glyph="uni1732" class="3"/>
+      <ClassDef glyph="uni1733" class="3"/>
+      <ClassDef glyph="uni1734" class="1"/>
+      <ClassDef glyph="uni1735" class="1"/>
+      <ClassDef glyph="uni1736" class="1"/>
+      <ClassDef glyph="uniFEFF" class="1"/>
+    </GlyphClassDef>
+    <LigCaretList>
+      <Coverage Format="1">
+      </Coverage>
+      <!-- LigGlyphCount=0 -->
+    </LigCaretList>
+  </GDEF>
+
+</ttFont>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <hmtx>
+    <mtx name=".notdef" width="1229" lsb="193"/>
+    <mtx name="glyph00027" width="1649" lsb="143"/>
+    <mtx name="glyph00028" width="1649" lsb="143"/>
+    <mtx name="glyph00029" width="2020" lsb="143"/>
+    <mtx name="glyph00030" width="1782" lsb="4"/>
+    <mtx name="glyph00031" width="1782" lsb="4"/>
+    <mtx name="glyph00032" width="1788" lsb="63"/>
+    <mtx name="glyph00033" width="1788" lsb="63"/>
+    <mtx name="glyph00034" width="1786" lsb="82"/>
+    <mtx name="glyph00035" width="1322" lsb="139"/>
+    <mtx name="glyph00036" width="1322" lsb="139"/>
+    <mtx name="glyph00037" width="1827" lsb="143"/>
+    <mtx name="glyph00038" width="1962" lsb="98"/>
+    <mtx name="glyph00039" width="1649" lsb="141"/>
+    <mtx name="glyph00040" width="1649" lsb="141"/>
+    <mtx name="glyph00041" width="674" lsb="264"/>
+    <mtx name="glyph00042" width="999" lsb="264"/>
+    <mtx name="uni000D" width="1044" lsb="0"/>
+    <mtx name="uni00A0" width="532" lsb="0"/>
+    <mtx name="uni1720" width="1802" lsb="63"/>
+    <mtx name="uni1721" width="1794" lsb="100"/>
+    <mtx name="uni1722" width="1067" lsb="236"/>
+    <mtx name="uni1723" width="1284" lsb="160"/>
+    <mtx name="uni1724" width="1606" lsb="143"/>
+    <mtx name="uni1725" width="1649" lsb="143"/>
+    <mtx name="uni1726" width="1966" lsb="143"/>
+    <mtx name="uni1727" width="1782" lsb="4"/>
+    <mtx name="uni1728" width="1978" lsb="156"/>
+    <mtx name="uni1729" width="1788" lsb="63"/>
+    <mtx name="uni172A" width="1063" lsb="166"/>
+    <mtx name="uni172B" width="1786" lsb="82"/>
+    <mtx name="uni172C" width="1792" lsb="84"/>
+    <mtx name="uni172D" width="1255" lsb="139"/>
+    <mtx name="uni172E" width="1827" lsb="143"/>
+    <mtx name="uni172F" width="2083" lsb="84"/>
+    <mtx name="uni1730" width="1962" lsb="98"/>
+    <mtx name="uni1731" width="1649" lsb="141"/>
+    <mtx name="uni1732" width="0" lsb="-838"/>
+    <mtx name="uni1733" width="0" lsb="-791"/>
+    <mtx name="uni1734" width="1415" lsb="-858"/>
+    <mtx name="uni1735" width="674" lsb="37"/>
+    <mtx name="uni1736" width="999" lsb="37"/>
+    <mtx name="uniFEFF" width="0" lsb="0"/>
+  </hmtx>
+
+</ttFont>
