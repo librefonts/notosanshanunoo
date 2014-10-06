@@ -1,0 +1,24 @@
+{
+  "name": "Noto Sans Hanunoo",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 5728,
+  "fonts": [
+    {
+      "name": "Noto Sans Hanunoo",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSansHanunoo-Regular.ttf",
+      "postScriptName": "NotoSansHanunoo",
+      "fullName": "Noto Sans Hanunoo",
+      "copyright": "Copyright 2013 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
